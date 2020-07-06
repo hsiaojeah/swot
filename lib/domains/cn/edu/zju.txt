@@ -1,2 +1,3 @@
 Zhejiang University, Hangzhou, China
+domain zju.edu.cn
 浙江大学，中国杭州
